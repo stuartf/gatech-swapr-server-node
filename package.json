@@ -21,7 +21,7 @@
     "passport-local": "^1.0.0",
     "pg": "^6.1.5",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^3.30.4",
+    "sequelize": "^4.17.2",
     "serve-favicon": "~2.3.0",
     "winston": "^2.4.0"
   },
